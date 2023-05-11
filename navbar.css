@@ -1,0 +1,48 @@
+li {
+	list-style-type: none;
+	margin: 0 1vw;
+	font-size: 16px;
+
+
+    }
+a.nav {
+	text-decoration: none;
+	color: #eef1ea;
+	padding: 1vw;
+	font-family: "Open Sans";
+
+}
+a:hover{
+	color: #d80000;
+}
+a:hover.none {
+	color: #d80000;
+}
+nav{
+	width: 75vw;
+
+}
+ul{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	
+
+}
+table.banner {
+	left: 0;
+	top: 0;
+	right: 0;
+	background-color: #161a1d;
+	width: 100%;
+	position: absolute;
+}
+table.footer {
+	left: 0;
+	right: 0;
+	background-color: #161a1d;
+	width: 100%;
+	height: 300px;
+	position: absolute;
+	padding-left: 2vw;
+}
